@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(111, 190, 227);
+    background-color: rgb(12, 10, 10);
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+    
+}
+
+.header {
+    color: black;
+    background-color: rgb(111, 190, 227);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.h2 {
+    color:black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+.toplinks {
+    font-size: 20px;
+
+}
+
+a {
+    color: white;
+    font-style: italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.columns {
+    column-count: 3;
+    column-gap: 15px;
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+  }
+  
+img {
+    max-width: 25%;
+    max-height:15%;
+    float: left;
+  }
+
+.video {
+    background-color: lightblue;
+}
+
+a:hover {
+    font-weight: bold;
+    font-size: 18px
+}
+
+a:visited {
+    color: white;
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.justify {text-align: justify;}
+
+.homebg {
+    background-image: url("../images/homebg_image.jpeg");
+    background-position: top right;
+}
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: green;
+}
+
+.box2 {
+    padding: 5px;
+}
+
+.box3 {
+    margin: 50px;
+}
+
+.commonmainbody {
+    background-color: rgb(13, 60, 91);
+}
